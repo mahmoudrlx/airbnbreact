@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "type": "lake",
+      "location": "Gildeskål, Norway",
+      "price": "80",
+      "description": "High standard with a double bedroom",
+      "reviews": "4.5",
+      "img": "https://a0.muscache.com/im/pictures/miso/Hosting-41186273/original/8809ec96-d997-4b80-a0b8-578958dd589c.jpeg?im_w=720",
+      "date": "Nov-15"
+    },
+    {
+      "id": "2",
+      "type": "beach",
+      "location": "Lido di Ostia, Italy ",
+      "price": "110",
+      "description": "Private room in rental unit hosted",
+      "reviews": "3.5",
+      "img": "https://a0.muscache.com/im/pictures/65c79845-54bf-4b18-a68f-f12af29c9197.jpg?im_w=720",
+      "date": "Oct-10"
+    },
+    {
+      "id": "3",
+      "type": "arctic",
+      "location": "Torino, Finland",
+      "price": "45",
+      "description": "There is no kitchen in the cottage",
+      "reviews": "4.8",
+      "img": "https://a0.muscache.com/im/pictures/miso/Hosting-54299560/original/4ee10ddd-a741-4cd1-bf5d-e5955f6072ff.jpeg?im_w=720",
+      "date": "Jun-20"
+    },
+    {
+      "id": "4",
+      "type": "park",
+      "location": "Bellegra, Italy",
+      "price": "35",
+      "description": "Large living room",
+      "reviews": "3",
+      "img": "https://a0.muscache.com/im/pictures/39953505/fb3feb86_original.jpg?im_w=720",
+      "date": "July-01"
+    },
+    {
+      "id": "5",
+      "type": "beach",
+      "location": "Anzio, Italy",
+      "price": "78",
+      "description": "Relaxing atmosphere and equipped",
+      "reviews": "4",
+      "img": "https://a0.muscache.com/im/pictures/3f081d7a-88d2-40f6-aa98-a2e133f39f75.jpg?im_w=720",
+      "date": "May-08"
+    },
+    {
+      "id": "6",
+      "type": "lake",
+      "location": "Vis, Croatia",
+      "price": "120",
+      "description": "Consists of a large stone building",
+      "reviews": "4",
+      "img": "https://a0.muscache.com/im/pictures/c63528fc-ba05-4aa1-bbf3-b9a2a1f59f08.jpg?im_w=720",
+      "date": "Dec-28"
+    },
+    {
+      "id": "7",
+      "type": "beach",
+      "location": "Santa Marinella, Italy",
+      "price": "75",
+      "description": "The house is part of a villa",
+      "reviews": "4.75",
+      "img": "https://a0.muscache.com/im/pictures/979be352-2d9e-4ada-8502-bb079b35b479.jpg?im_w=720",
+      "date": "Apr-07"
+    },
+    {
+      "id": "8",
+      "type": "house",
+      "location": "Tuscan, Italy",
+      "price": "70",
+      "description": "This Baroque masterpiece is famed for its gardens",
+      "reviews": "5",
+      "img": "https://a0.muscache.com/im/pictures/495d71a4-6d5b-4697-89fd-d3398412b4f4.jpg?im_w=720",
+      "date": "Mar-01"
+    },
+    {
+      "id": "9",
+      "type": "arctic",
+      "location": "Luleå, Sweden",
+      "price": "55",
+      "description": "50 squaremeter with WC, sauna is closed",
+      "reviews": "5",
+      "img": "https://a0.muscache.com/im/pictures/5df25824-0ea6-4c15-a492-24c965e70b55.jpg?im_w=720",
+      "date": "Sept-19"
+    },
+    {
+      "id": "10",
+      "type": "park",
+      "location": "Nettuno, Italy",
+      "price": "150",
+      "description": "Villa Carrubo, corner of paradise 300m from the sea",
+      "reviews": "4.8",
+      "img": "https://a0.muscache.com/im/pictures/miso/Hosting-27943580/original/83b2a080-e5c4-43bd-bc28-4d017e73a0bc.jpeg?im_w=720",
+      "date": "Apr-17"
+    },
+    {
+      "id": "11",
+      "type": "house",
+      "location": "Capranica, Italy",
+      "price": "200",
+      "description": "Relais in the Park - historical manor house",
+      "reviews": "5",
+      "img": "https://a0.muscache.com/im/pictures/ea3d4de3-ad9a-4dfb-9b3a-fa694c6bb7e8.jpg?im_w=720",
+      "date": "Aug-21"
+    },
+    {
+      "id": "12",
+      "type": "arctic",
+      "location": "Boliden, Sweden",
+      "price": "57",
+      "description": "Cozy cottage with lake view, Norra bergfors, Sweden",
+      "reviews": "5",
+      "img": "https://a0.muscache.com/im/pictures/miso/Hosting-30076552/original/6f473419-56b7-4af8-897c-4ddda62ec391.jpeg?im_w=720",
+      "date": "Nov-19"
+    }
+  ]
+}
