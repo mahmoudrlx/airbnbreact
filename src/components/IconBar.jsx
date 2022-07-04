@@ -31,7 +31,6 @@ const IconBar = () => {
 
   const handleChange = (e) => {
     setIsFiltered(e.currentTarget.attributes["value"]?.value);
-    applyFilter();
   };
 
   const applyFilter = (data) => {
