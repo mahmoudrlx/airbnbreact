@@ -27,6 +27,7 @@ const IconBar = () => {
   const [listOfCards, setlistOfCards] = useState([]);
   const [isFiltered, setIsFiltered] = useState("");
   const [open, setOpen] = useState(false);
+
   const handleOpen = () => setOpen(true);
 
   const handleChange = (e) => {

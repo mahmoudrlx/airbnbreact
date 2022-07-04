@@ -28,20 +28,20 @@ const MyModal = ({ open, setOpen, listOfCards, setlistOfCards }) => {
 
   const handleClose = () => setOpen(false);
 
-  const strAscending = () => {
+  const priceAscending = () => {
     setlistOfCards([...listOfCards].sort((a, b) => a.price - b.price));
   };
 
-  const strDescending = () => {
+  const priceDescending = () => {
     setlistOfCards([...listOfCards].sort((a, b) => b.price - a.price));
   };
 
   const handelChange = (e) => {
     setPrice(e.target.value);
     if (e.target.value === "ASC") {
-      strAscending();
+      priceAscending();
     } else if (e.target.value === "DESC") {
-      strDescending();
+      priceDescending();
     }
   };
 
